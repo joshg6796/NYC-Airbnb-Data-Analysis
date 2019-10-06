@@ -6,17 +6,17 @@ The dataset is presented in csv format and is read using Pandas. It contains inf
 # Setup Instructions
 1. Download Python 3.7 [here](https://www.python.org/downloads/). This will download your Python global environment onto your computer. This is necessary in order to create the Python virtual environment in the next step.
 1. Go to the project directory through the command line and create a Python virtual environment with all of the necessary libraries imported.
-    1. To create the virtual environment, run the following command:
+    a. To create the virtual environment, run the following command:
     ```
     python3 -m venv venv
     ```
 
-    1. To activate the virtual environment, run the following command:
+    b. To activate the virtual environment, run the following command:
     ```
     source venv/bin/activate
     ```
 
-    1. To install the required imports needed for your Python code, run the following command:
+    c. To install the required imports needed for your Python code, run the following command:
 
     ```
     pip install -r app/requirements.txt
