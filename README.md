@@ -16,7 +16,7 @@ The dataset is presented in csv format and is read using Pandas. It contains inf
     source venv/bin/activate
     ```
 
-    1. To install the required imports needed for your Python code, run the following commands:
+    1. To install the required imports needed for your Python code, run the following command:
 
     ```
     pip install -r app/requirements.txt
